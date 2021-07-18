@@ -1,9 +1,0 @@
-README.md
-setup.py
-katie/__init__.py
-katie/__main__.py
-katie.egg-info/PKG-INFO
-katie.egg-info/SOURCES.txt
-katie.egg-info/dependency_links.txt
-katie.egg-info/entry_points.txt
-katie.egg-info/top_level.txt
