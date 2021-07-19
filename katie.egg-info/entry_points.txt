@@ -1,3 +1,0 @@
-[console_scripts]
-katie = katie.__main__:main
-
