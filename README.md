@@ -1,4 +1,7 @@
 # Katie 
-### a Dekstop assistance.
-Katie is an AI assistant which can be used by typing the command 'katie" in the terminal.
+### Dekstop assistance.
+Can be accessed though terminal by typing the command katie.
 
+## Commands
+- Katie open spotify
+- katie 
